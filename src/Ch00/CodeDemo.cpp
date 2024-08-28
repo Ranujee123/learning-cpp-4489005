@@ -2,12 +2,12 @@
 // Exercise 00_03
 // Using the exercise files on GitHub, by Eduardo Corpeño 
 
-#include <iostream>
+#include <iostream> //print the text on screen and recieve text from the keyboard
 
 int main(){
     float num_1, num_2, result;
 
-    std::cout << "Enter number 1: " << std::flush;
+    std::cout << "Enter number 1: " << std::flush;//cout=character output
     std::cin >> num_1;
     std::cout << "Enter number 2: " << std::flush;
     std::cin >> num_2;
