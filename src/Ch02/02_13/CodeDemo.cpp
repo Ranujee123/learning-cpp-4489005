@@ -9,6 +9,15 @@ int main(){
     float result; 
 
     // Write your code here
+
+    int sum=0;
+   for (int i = 0; i < 5; i++){
+        sum += nums[i];
+    }
+
+    result= (float)sum/5;
+
+
     
     std::cout << "The average is " << result << std::endl;
     
