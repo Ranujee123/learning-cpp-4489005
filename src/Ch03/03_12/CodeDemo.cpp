@@ -1,4 +1,3 @@
-// Learning C++ 
 // Challenge Solution 03_12
 // Create some classes, by Eduardo Corpeño 
 

@@ -24,6 +24,11 @@ int main(){
     std::cout << "Enter a student ID: " << std::flush;
     std::cin >> id;
 
+
+    for(int i; i<= students.size();i++){
+        GPA +=
+
+
     // Calculate the GPA for the selected student.
     // Write your code here
 
